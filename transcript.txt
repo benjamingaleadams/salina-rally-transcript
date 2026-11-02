@@ -99,22 +99,22 @@
 [20:26] music]
 [20:26] [unclear] 12 news this is a campaign 2026 update from 12 news this is a campaign 2026 update
 [20:27] you
-[20:28] [music]
-[20:29] [music]
+[20:28] [music] 
+[20:29] [music] 
 [20:29] [music]
 [20:30] [music]
 [20:30] [music]
 [20:31] [music]
-[20:31] [music]
-[20:32] [music]
-[20:33] [music]
-[20:33] [music]
-[20:34] [music]
-[20:34] [music]
-[20:35] [music]
+[20:31] [music] 
+[20:32] [music] 
+[20:33] [music] 
+[20:33] [music] 
+[20:34] [music] 
+[20:34] [music] 
+[20:35] [music] 
 [20:36] [unclear] chattering)
-[20:36] [music]
-[20:37] [music]
+[20:36] [music] Life's like a road that you travel on [music] There's one day here and the next day gone [music] Sometimes you bend, sometimes you stand [music] Sometimes you turn, you're back to the wind [music] There's a road outside every darkened door [music] The blues won't hunt you in [music] But the brave are breathing and lovers soar [music] my domain is a distant shot [music]
+[20:37] [music] If you're going to ride away [music] I want to drive it all night long [music] 
 [20:37] [music]
 [20:38] [music]
 [20:38] [music]
@@ -123,36 +123,36 @@
 [20:40] [music]
 [20:40] [music] 
 [20:41] [music] 
-[20:41] [music]
-[20:42] [music]
+[20:41] [music] 
+[20:42] [music] 
 [20:42] [music]
 
 === AIR FORCE ONE ARRIVAL: TOWER-RADIO EXCHANGE PLAYED OVER PA, THEN MUSIC (NO SPEAKER) (from 20:43; transcript (confirmed)) ===
 [20:43] [unclear] Tower, Air Force One, over ? ? Air Force One, this is Salina Tower, say request, over ? ? ? Requesting low pass, east to west, into right downwind for runway 17, over ? ? ? Cleared low pass, notify tower, wind visual over huge crowd, over ? ? ? Salina Tower, Air Force One, we're visual with huge crowd, out ?
-[20:43] [music]
-[20:44] [music]
-[20:44] [music]
-[20:45] [music]
-[20:45] [music]
-[20:46] [music]
+[20:43] [music] 
+[20:44] [music] 
+[20:44] [music] 
+[20:45] [music] 
+[20:45] [music] 
+[20:46] [music] 
 [20:48] [music]
 [20:49] [music]
 [20:49] [music]
 [20:50] [music]
-[20:50] [music]
-[20:51] [music]
+[20:50] [music] 
+[20:51] [music] 
 [20:51] [music]
 [20:52] [music]
-[20:52] [music]
-[20:53] [music]
+[20:52] [music] 
+[20:53] [music] 
 [20:53] [music]
 [20:54] [music]
-[20:54] [music]
+[20:54] [music] 
 [20:55] [music] 
 [20:55] [music]
 [20:56] [music]
-[20:56] [music]
-[20:57] [music]
+[20:56] [music] 
+[20:57] [music] 
 [20:57] [music]
 [20:58] [music]
 [20:58] [music]
@@ -183,7 +183,7 @@
 
 === TRUMP ARRIVING: VIDEO/AUDIO PLAYED IN HANGAR (NOT LIVE REMARKS) (from 21:14; KWCH shows motorcade + crowd at 21:14; RSBN shows empty presidential podium (confirmed)) ===
 [21:14] - Retribution will be through success.
-[21:14] [music]
+[21:14] [music] 
 
 === MUSIC DURING TRUMP'S ARRIVAL (NO SPEAKER) (from 21:15; songs/video in hangar; lyrics hidden in public copy) ===
 [21:15] [music]
@@ -196,7 +196,7 @@
 [21:18] [music]
 
 === TRIBUTE VIDEO PLAYED IN HANGAR (NARRATOR, NOT LIVE REMARKS) (from 21:19; 'God made Trump' video, also aired by RSBN (confirmed)) ===
-[21:19] [music]
+[21:19] [music] - And on June 14th, 1946, God looked down on his planned paradise and said, "I need a caretaker." So God gave us Trump. God said, "I need somebody willing to get up before dawn, fix this country, work all day, fight the Marxist, eat supper, then go to the Oval Office [music] 
 [21:19] [unclear] passed midnight at a meeting of the heads of state, so God made Trump. I need somebody with arms, strong enough to rustle the deep state, and yet gentle enough to deliver his own grandchild. Somebody to ruffle the feathers, tame cantankerous world economic forum, come home hungry, have to wait until the first lady is done with lunch with friends, then tell the ladies to be sure and come back real soon, and mean it.
 [21:20] So God gave us Trump. I need somebody who can shape an axe, but wield a sword, who had the courage to step foot in North Korea, who can make money from the tar of the sand, turn liquid to gold, who understands the difference between tariffs and inflation, will finish his 40 hour week by Tuesday noon, but then put in another 72 hours. So God made Trump. God had to have somebody willing to go into the den of vipers, call out the fake news for with their tongues as sharp as a serpent's.
 [21:20] [unclear] poison of vipers is on their lips, and yet stop. So God made [unclear] God said, "I need somebody who will be strong and courageous, who will not be afraid or terrified of the wolves when they attack, a man who cares for the flock, a shepherd to mankind who won't ever leave nor forsake them. I need the most diligent worker to follow the path and remain strong in faith and know the belief of God and country, somebody who's willing to drill, bring back manufacturing and American jobs, farm the lands, secure our borders, build our military, fight the system all day, and finish a hard week's work by attending church on Sunday."
@@ -210,6 +210,10 @@
 [21:22] [music]
 [21:23] [music]
 [21:23] [music]
-[21:24] [music]
-[21:24] [music]
-[21:25] [music]
+
+=== PRESIDENT DONALD TRUMP (from 21:24; introduced by announcer at 21:21; begins 'Well, thank you very much' after walk-on song + KWCH caption 'TRUMP SPEAKS AT MIDTERM RALLY' at 21:25 (confirmed)) ===
+[21:24] [music] Well, thank you very much. Thank you. USA! USA! USA!
+[21:24] Thank you very much. And a very special hello to Kansas. Thank you. And I'm thrilled to be back in this beautiful state. Great state. I love this state, which I won all three times with more votes than any candidate in Kansas history. We love to brag like that. I love it. But just two days from now, the people of Kansas are going to reelect Roger Marshall
+[21:25] to the United [unclear] and we're going to elect Ty Masterson as your governor. You can have a good time. And as we're going to elect really up and down the line, we're going to go America first Republicans up and down that line. Republicans. We love them. They're keeping our country. Well, actually, they're making it because we had four years, which were a disaster. And we've just made it.
+[21:25] [unclear] is great again. America is great again. For the past 32 days, I have traveled all across the country, spoken it. This is my 30th rally [unclear] I'm closing it down tonight. This is it. I had to come here to make sure that Roger got elected.
+[21:26] I had to do it. I didn't want to take because he's a good man. He's a great man. Actually, he's one of the most respected people in Washington. I didn't want to take a chance. I could have been home watching television or some crappy thing. I'd rather be with you. Believe me. I love you all. But I've done it for one simple reason to stop America hating communist and [unclear] had us from taking over the United [unclear] Congress can't do it.
